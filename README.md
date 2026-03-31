@@ -300,7 +300,7 @@ Message: DHCP scope {{scopename.name}} is {{value}}% utilized — free IPs may r
 
 <div align="center">
 
-**Version 1.0.0 · Last Updated: <!--LAST_UPDATED-->**
+**Version 1.0.0 · Last Updated: March 31, 2026**
 © 2026 Zoos Global · <a href="LICENSE">MIT License</a>
 
 </div>
