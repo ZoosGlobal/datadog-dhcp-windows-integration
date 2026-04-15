@@ -262,7 +262,7 @@ try {
     $task = Get-ScheduledTask -TaskName $TaskName
     Write-OK "Task created  : $TaskName"
     Write-INFO 'Run as        : NT AUTHORITY\SYSTEM'
-    Write-INFO 'Interval      : Every 1 minute'
+    Write-INFO 'Interval      : Every 3 minute'
     Write-INFO "State         : $($task.State)"
 
     Start-ScheduledTask -TaskName $TaskName
